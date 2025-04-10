@@ -1,0 +1,1061 @@
+1: Actinomycotic infection
+2: Active tuberculosis
+3: Acute cystitis
+4: Acute pain
+5: Allergic bronchopulmonary aspergillosis
+6: Anthrax
+7: Aphthous ulceration of skin and_or mucous membrane
+8: Arteriosclerotic vascular disease
+9: Arthritis of spine
+10: Arthritis
+11: Aspergillosis
+12: Atypical mycobacterial infection
+13: Bacterial endocarditis
+14: Bacterial meningitis
+15: Bacterial osteomyelitis
+16: Bacterial vaginosis
+17: Bartonellosis
+18: Blastomycosis
+19: Brucellosis
+20: Cardiomyopathy
+21: Chancroid
+22: Chlamydia trachomatis infection
+23: Cholera
+24: Chorea
+25: Choroiditis
+26: Chronic atrial fibrillation
+27: Chronic atrial flutter
+28: Chronic hepatitis C
+29: Chronic type B viral hepatitis
+30: Clostridium difficile colitis
+31: Colitis
+32: Common cold
+33: Crohn's disease in remission
+34: Cutaneous leishmaniasis
+35: Cutaneous sporotrichosis
+36: Cyclosporiasis
+37: Delusions of parasitosis
+38: Dilated cardiomyopathy
+39: Disease caused by Adenovirus
+40: Disease caused by rickettsiae
+41: Disorder of gastrointestinal tract
+42: Disseminated infection caused by Mycobacterium avium-intracellulare group
+43: Early onset dysthymia
+44: Exophthalmos due to thyroid eye disease
+45: Eye infection
+46: Fever
+47: Fungal meningitis
+48: Genital warts
+49: Giardiasis
+50: Granuloma annulare
+51: Granuloma inguinale
+52: Hemorrhoidectomy
+53: Henoch-Schönlein nephritis
+54: Hepatitis B and hepatitis C
+55: Herpes simplex
+56: Herpes zoster ophthalmicus
+57: Herpes zoster
+58: Hirsutism
+59: Hodgkin's disease (clinical)
+60: Huntington's chorea
+61: Inactive tuberculosis
+62: Infection by Yersinia enterocolitica
+63: Infection caused by Mycobacterium marinum
+64: Infection of bone
+65: Infectious disorder of joint
+66: Infective arthritis
+67: Influenza
+68: Injection site extravasation
+69: Intestinal infection caused by Aeromonas hydrophila
+70: Invasive candidiasis
+71: Invasive trichinosis
+72: Keloid scar
+73: Keratoacanthoma
+74: Leishmaniasis
+75: Leprosy
+76: Lymphocutaneous sporotrichosis
+77: Malaria
+78: Malignant meningitis
+79: Melioidosis
+80: Meningococcal infectious disease
+81: Methicillin resistant Staphylococcus aureus infection
+82: Mycobacteriosis
+83: Mycosis fungoides (clinical)
+84: Mycosis
+85: Ménière's disease
+86: Nocardiosis
+87: Non-intestinal amebic infection
+88: Nongonococcal urethritis caused by Ureaplasma urealyticum
+89: Nongonococcal urethritis
+90: Onychomycosis due to dermatophyte
+91: Overdose of opiate
+92: Parkinson's disease
+93: Peritonitis
+94: Pertussis
+95: Pharyngitis
+96: Plague
+97: Pneumococcal meningitis
+98: Pneumocystosis pneumonia
+99: Porphyria cutanea tarda
+100: Primary dysmenorrhea
+101: Primary dysthymia early onset
+102: Primary dysthymia late onset
+103: Primary hypercholesterolemia
+104: Primary myelofibrosis
+105: Pulmonary aspergillosis
+106: Pulmonary tuberculosis
+107: Pyloric stenosis
+108: Q fever
+109: Quaranfil fever
+110: Raynaud's disease
+111: Rosacea
+112: Salmonella gastroenteritis
+113: Salmonella infection
+114: Secondary hypercholesterolemia
+115: Secondary physiologic amenorrhea
+116: Secondary Raynaud's phenomenon
+117: Severe major depression, single episode, with psychotic features, mood-congruent
+118: Severe major depression, single episode, with psychotic features, mood-incongruent
+119: Severe major depression, single episode, with psychotic features
+120: Severe major depression, single episode, without psychotic features
+121: Sezary's disease
+122: Shigellosis
+123: Sporotrichosis
+124: Sprue
+125: Staphylococcal meningitis
+126: Stomatitis
+127: Streptococcal sore throat
+128: Syphilis
+129: Takayasu's disease
+130: Tetanus
+131: Thymoma
+132: Thyroid eye disease
+133: Tinea capitis
+134: Toxoplasma encephalitis
+135: Toxoplasmosis
+136: Trabeculectomy ab externo
+137: Tuberculosis of central nervous system
+138: Tuberculosis of meninges
+139: Tuberculosis, extrapulmonary
+140: Tuberculosis
+141: Tularemia
+142: Type B viral hepatitis
+143: Typhoid fever
+144: Viral hemorrhagic fever
+145: Viral hepatitis C
+146: Viral labyrinthitis
+147: Vivax malaria
+148: Acute otitis media
+149: Chronic purulent otitis media
+150: Excessive cerumen in ear canal
+151: Granular myringitis
+152: Hearing loss
+153: Impaired cognition
+154: Optic neuritis
+155: Otitis media
+156: Peripheral vertigo
+157: Subacute thyroiditis
+158: Tenosynovitis
+159: Abdominal aortic aneurysm
+160: Acne detergicans
+161: Acute ischemic heart disease
+162: Acute myocardial infarction
+163: Acute non-ST segment elevation myocardial infarction
+164: Acute rheumatic heart disease
+165: Acute ST segment elevation myocardial infarction
+166: Aortic root dilatation
+167: Arterial thrombosis
+168: Arteriosclerosis of coronary artery bypass graft
+169: Atrial arrhythmia
+170: Atrial fibrillation
+171: Atrial flutter
+172: Atrial paroxysmal tachycardia
+173: Atrial tachycardia
+174: AV junctional rhythm
+175: Bradyarrhythmia
+176: Brugada syndrome
+177: Cardiac arrhythmia
+178: Cardiac transplant rejection
+179: Cardiomyopathy in Duchenne muscular dystrophy
+180: Carotid artery stenosis
+181: Catecholaminergic polymorphic ventricular tachycardia
+182: Chronic heart failure
+183: Congestive heart failure
+184: Coronary arteriosclerosis
+185: Coronary artery bypass graft
+186: Coronary artery stenosis
+187: Deep venous thrombosis
+188: Disorder of coronary artery
+189: Edema
+190: Essential hypertension
+191: Focal segmental glomerulosclerosis
+192: Generalized atherosclerosis
+193: Heart failure
+194: High output ileostomy
+195: Hyperinsulinar obesity
+196: Hypertensive disorder
+197: Hypertensive emergency
+198: Hypertensive urgency
+199: Hypertrophic cardiomyopathy
+200: Hypertrophic obstructive cardiomyopathy
+201: Infective endocarditis
+202: Iridocyclitis
+203: Ischemic heart disease
+204: Left ventricular cardiac dysfunction
+205: Left ventricular diastolic dysfunction
+206: Left ventricular hypertrophy
+207: Multiple atrial premature complexes
+208: Myocardial infarction
+209: Paroxysmal atrial fibrillation
+210: Paroxysmal supraventricular tachycardia
+211: Paroxysmal ventricular tachycardia
+212: Percutaneous transluminal angioplasty of peripheral artery
+213: Pericarditis
+214: Peripheral arterial occlusive disease
+215: Permanent atrial fibrillation
+216: Persistent atrial fibrillation
+217: Persistent pulmonary hypertension of the newborn
+218: Polymyalgia rheumatica
+219: Premature atrial contraction
+220: Premature labor
+221: Prosthetic cardiac valve component embolism
+222: Prosthetic cardiac valve thrombosis
+223: Pulmonary arterial hypertension
+224: Pulmonary embolism
+225: Pulmonary hypertension
+226: Rapid atrial fibrillation
+227: Restenotic lesion of coronary artery
+228: Rheumatic heart disease
+229: Right ventricular diastolic dysfunction
+230: Run of atrial premature complexes
+231: Run of ventricular premature complexes
+232: Short QT syndrome
+233: Sudden cardiac death
+234: Supraventricular arrhythmia
+235: Supraventricular premature beats
+236: Supraventricular tachycardia
+237: Thromboembolism of vein
+238: Thrombophlebitis
+239: Vascular graft thrombosis
+240: Ventricular arrhythmia
+241: Ventricular hypertrophy
+242: Ventricular premature complex
+243: Ventricular tachycardia
+244: Acne vulgaris
+245: Acute bursitis
+246: Acute exacerbation of chronic bronchitis
+247: Acute exacerbation of chronic obstructive pulmonary disease
+248: Acute maxillary sinusitis
+249: Acute pulmonary edema
+250: Acute rhinosinusitis
+251: Allergic rhinitis
+252: Aspiration pneumonitis
+253: Asthma
+254: Bacterial arthritis
+255: Berylliosis
+256: Bronchiectasis
+257: Bronchitis
+258: Bursitis
+259: Carcinoma liver and_or biliary system
+260: Centriacinar emphysema
+261: Chronic bullous emphysema
+262: Chronic eosinophilic leukemia
+263: Chronic obstructive pulmonary disease with acute lower respiratory infection
+264: Chronic obstructive pulmonary disease
+265: Chronic renal failure
+266: Community acquired pneumonia
+267: Cystic fibrosis
+268: Dysthymia
+269: End stage chronic obstructive pulmonary disease
+270: Familial idiopathic pulmonary fibrosis
+271: Fibrosis of lung
+272: Haemophilus influenzae infection
+273: High altitude pulmonary edema
+274: Hospital acquired pneumonia
+275: Laryngitis due to gastroesophageal reflux
+276: Legionella pneumonia
+277: Mild chronic obstructive pulmonary disease
+278: Moderate chronic obstructive pulmonary disease
+279: Non-allergic rhinitis
+280: Occupational asthma
+281: Panacinar emphysema
+282: Paraseptal emphysema
+283: Perennial allergic rhinitis
+284: Pulmonary edema
+285: Pulmonary emphysema
+286: Pulmonary eosinophilic granuloma
+287: Rhinitis
+288: Seasonal allergic rhinitis
+289: Severe chronic obstructive pulmonary disease
+290: Sinusitis
+291: Summer-type hypersensitivity pneumonitis
+292: Tardive dyskinesia
+293: Vasomotor rhinitis
+294: Ventilator associated pneumonia
+295: Adenoma of large intestine
+296: Aggressive behavior
+297: Alcoholic hepatitis
+298: Amebic liver abscess
+299: Anal fissure
+300: Aphthous ulcer of mouth
+301: Bacterial infectious disease
+302: Barrett's esophagus
+303: Candidiasis of the esophagus
+304: Carcinoma of gallbladder
+305: Carcinoma of pancreas
+306: Chilblains
+307: Chronic lymphoid leukemia, disease
+308: Chronic prostatitis
+309: Cirrhosis of liver
+310: Collagen disease
+311: Corneal ulcer
+312: Crohn's disease of intestine
+313: Crohn's disease
+314: Diarrhea
+315: Diffuse spasm of esophagus
+316: Erosive esophagitis
+317: Esophageal varices
+318: Esophagitis
+319: Fetal tachycardia
+320: Ganglion of aponeurosis
+321: Gastric ulcer
+322: Gastritis
+323: Gastroesophageal reflux disease
+324: Giant duodenal ulcer
+325: Gout
+326: Helicobacter-associated pyloric ulcer
+327: Hepatoblastoma
+328: Hidradenitis
+329: Hypertension in the obstetric context
+330: Infectious diarrheal disease
+331: Infectious disease of abdomen
+332: Infective cholangitis
+333: Inflammatory bowel disease
+334: Irritable bowel syndrome
+335: Late onset dysthymia
+336: Left sided ulcerative colitis
+337: Loss of appetite
+338: Malignant hypertension
+339: Malignant tumor of large intestine
+340: Malignant tumor of pancreas
+341: Malignant tumor of salivary gland
+342: Nasal congestion
+343: Nephroblastoma
+344: Neuroblastoma
+345: Nonspecific ulcerative proctitis
+346: Osteosarcoma of bone
+347: Peptic ulcer
+348: Percutaneous transluminal coronary angioplasty
+349: Periodontitis
+350: Peritoneal dialysis-associated peritonitis
+351: Precocious puberty
+352: Primary biliary cholangitis
+353: Proctosigmoiditis
+354: Rejection of pancreas transplant
+355: Renovascular hypertension
+356: Sitosterolemia
+357: Spasticity
+358: Staphylococcal infectious disease
+359: Traveler's diarrhea
+360: Ulcer of duodenum
+361: Ulcerative colitis
+362: Urinary tract infectious disease
+363: Uses postcoital contraception
+364: Xerostomia
+365: Acne fulminans with erythema nodosum
+366: Acne
+367: Actinic keratosis
+368: Administration of anesthesia AND_OR sedation
+369: Allergic condition
+370: Allergy to drug
+371: Alopecia areata
+372: Alopecia
+373: Amenorrhea
+374: Atopic dermatitis
+375: Contact dermatitis
+376: Dermatitis herpetiformis
+377: Dermatofibrosarcoma protuberans
+378: Dysmenorrhea
+379: Epithelial tumor of ovary
+380: Erythema elevatum diutinum
+381: Erythema multiforme
+382: Erythroderma
+383: Evans syndrome
+384: Glioblastoma multiforme
+385: Gonorrhea
+386: Hemodialysis-associated pruritus
+387: Humoral hypercalcemia of malignancy
+388: Infection of skin and_or subcutaneous tissue
+389: Inflammatory hyperkeratotic dermatosis
+390: Lichen planus
+391: Lichen simplex chronicus
+392: Mantle cell lymphoma
+393: Nausea and vomiting caused by radiation
+394: Necrobiosis lipoidica diabeticorum
+395: Neuropathic pain
+396: Pemphigoid
+397: Pemphigus vulgaris
+398: Pemphigus
+399: Plaque psoriasis
+400: Polymorphous light eruption
+401: Primary cutaneous T-cell lymphoma
+402: Prosthetic joint infection
+403: Psoriasis
+404: Seborrheic dermatitis
+405: Skin and soft tissue atypical mycobacterial infection
+406: Spongiotic dermatitis
+407: Stevens-Johnson syndrome
+408: Urticaria
+409: Arthropathy
+410: Gouty arthropathy
+411: Inflammation of joint of shoulder region
+412: Osteoarthritis
+413: Osteomyelitis caused by Staphylococcus aureus
+414: Osteomyelitis
+415: Osteoporosis caused by corticosteroid
+416: Osteoporosis
+417: Post traumatic osteoarthritis
+418: Postmenopausal osteoporosis
+419: Prostatitis
+420: Reactive arthritis triad
+421: Relapsing polychondritis
+422: Rheumatoid arthritis
+423: Spasm of back muscles
+424: Spondylitis
+425: Spondylolisthesis
+426: Stenosis of spinal canal due to intervertebral disc
+427: Swelling of structure of eye
+428: Abnormal uterine bleeding unrelated to menstrual cycle
+429: Acute scleroderma renal crisis
+430: Benign prostatic hyperplasia
+431: Dyslipidemia
+432: Endometrial hyperplasia
+433: Endometriosis (clinical)
+434: Endometriosis of uterus
+435: Epididymitis
+436: Female infertility due to ovulatory disorder
+437: Female pelvic inflammatory disease
+438: Infertility due to oligospermia
+439: Malignant tumor of prostate
+440: Malignant tumor of vulva
+441: Menopausal flushing
+442: Neoplasm of prostate
+443: Oligozoospermia
+444: Paraphilia
+445: Perimenopausal disorder
+446: Polyostotic fibrous dysplasia of bone
+447: Pyelonephritis
+448: Sarcoma of kidney
+449: Seminoma of testis
+450: Urolithiasis
+451: Psychoactive substance withdrawal
+452: Cesarean section
+453: Chronic nonsuppurative thyroiditis
+454: Ectopic atrial beats
+455: Ectopic pregnancy
+456: Excessive day and night-time sleepiness
+457: Gestational trophoblastic disease
+458: Gestational trophoblastic neoplasia
+459: Hyperemesis gravidarum
+460: INCOMPLETE
+461: Multiple premature ventricular complexes
+462: Operation on heart
+463: Postherpetic neuralgia
+464: Pre-eclampsia
+465: Puerperal endometritis
+466: Retained placenta
+467: Serum sickness caused by drug
+468: Agitated depression
+469: Antibiotic enterocolitis
+470: Bipolar affective disorder, current episode depression
+471: Bronchopulmonary dysplasia of newborn
+472: Calcium renal calculus
+473: Cholestasis of parenteral nutrition
+474: Chronic depression
+475: Cytomegalovirus infection
+476: Endogenous depression - recurrent
+477: Endogenous depression first episode
+478: Endogenous depression
+479: Eosinophilic nonallergic rhinitis
+480: Epidermal growth factor receptor positive non-small cell lung cancer
+481: Fetal intrauterine distress noted before labor in liveborn infant
+482: Human immunodeficiency virus infection
+483: Intermittent urinary incontinence
+484: Involutional depression
+485: Major depression in full remission
+486: Major depression in remission
+487: Major depression single episode, in partial remission
+488: Masked depression
+489: Menopausal depression
+490: Mild depression
+491: Mild major depression
+492: Mild recurrent major depression
+493: Mixed hyperlipidemia
+494: Moderate depression
+495: Moderate major depression
+496: Moderate recurrent major depression
+497: Nausea and vomiting
+498: Non-Hodgkin's lymphoma of central nervous system
+499: Pharyngeal candidiasis
+500: Poisoning due to bite of brown recluse spider
+501: Recurrent major depression in full remission
+502: Recurrent major depression in partial remission
+503: Recurrent major depression in remission
+504: Recurrent major depression
+505: Respiratory distress syndrome in the newborn
+506: Severe depression
+507: Severe major depression with psychotic features, mood-congruent
+508: Severe major depression with psychotic features, mood-incongruent
+509: Severe major depression with psychotic features
+510: Severe major depression without psychotic features
+511: Severe recurrent major depression with psychotic features, mood-congruent
+512: Severe recurrent major depression with psychotic features, mood-incongruent
+513: Severe recurrent major depression with psychotic features
+514: Severe recurrent major depression without psychotic features
+515: Severe recurrent major depression
+516: Silent myocardial ischemia
+517: Single episode of major depression in full remission
+518: Transfusion reaction due to serum protein reaction
+519: Transient cerebral ischemia
+520: Acne nodule
+521: Acute lymphoid leukemia
+522: Acute promyelocytic leukemia, FAB M3
+523: Adrenal carcinoma
+524: Articular gout
+525: B-cell lymphoma (clinical)
+526: Blastic phase chronic myeloid leukemia
+527: Bullous cutaneous mastocytosis
+528: Burkitt's lymphoma (clinical)
+529: Carcinoma in situ of breast
+530: Carcinoma in situ of kidney
+531: Carcinoma of breast
+532: Carcinoma of cervix
+533: Carcinoma of esophagus
+534: Carcinoma of penis
+535: Carcinoma of prostate
+536: Carcinoma of stomach
+537: Carcinoma of thyroid
+538: Carcinoma of urinary bladder
+539: Chordoma of clivus
+540: Chronic myeloid leukemia
+541: Clear cell carcinoma of kidney
+542: Edema of larynx
+543: Endometrial carcinoma
+544: Excision of colon and rectum
+545: Follicular lymphoma
+546: Gastrointestinal stromal tumor
+547: Glioblastoma multiforme of brain
+548: Hemopoietic stem cell transplant
+549: Hormone receptor positive malignant neoplasm of breast
+550: Kaposi's sarcoma (clinical)
+551: Langerhans cell histiocytosis
+552: Liver cell carcinoma
+553: Lymphoproliferative disorder following transplantation
+554: Malignant neoplasm of adrenal cortex
+555: Malignant neoplasm of brain
+556: Malignant neoplasm of cardio-esophageal junction of stomach
+557: Malignant neoplasm of central nervous system
+558: Malignant neoplasm of endometrium of corpus uteri
+559: Malignant neoplasm of liver
+560: Malignant neoplasm of perinephric tissue
+561: Malignant neoplasm of skin
+562: Malignant neoplasm of urinary bladder
+563: Malignant neoplasm of uterus
+564: Malignant tumor of biliary tract
+565: Malignant tumor of breast
+566: Malignant tumor of esophagus
+567: Marginal zone lymphoma
+568: Melanocytic neoplasm
+569: Menorrhagia
+570: Merkel cell carcinoma
+571: Metastatic adenocarcinoma of unknown origin
+572: Metastatic malignant neoplasm to kidney
+573: Mucosa-associated lymphoma
+574: Multiple myeloma
+575: Neoplasm of breast
+576: Neoplasm of central nervous system
+577: Neoplasm of colon
+578: Neoplasm of kidney
+579: Neoplasm of parenchyma of kidney
+580: Neoplasm of uncertain behavior of kidney
+581: Non-Hodgkin's lymphoma (clinical)
+582: Ocular rosacea
+583: Oligodendroglioma of brain
+584: Oral lesion
+585: Pain of breast
+586: Primary malignant neoplasm of kidney
+587: Primary malignant neoplasm of ovary
+588: Primary malignant neoplasm of unknown site
+589: Proliferative vitreoretinopathy
+590: Queyrat's erythroplasia
+591: Renal cell carcinoma
+592: Rhabdomyosarcoma
+593: Sarcoma of soft tissue
+594: Sarcoma of uterus
+595: Sarcoma
+596: Small cell carcinoma of lung
+597: Squamous cell carcinoma in situ of skin
+598: Squamous cell carcinoma of pharynx
+599: Squamous cell carcinoma of skin
+600: Stricture of esophagus
+601: Transient erythroblastopenia of childhood
+602: Transitional cell carcinoma of urinary bladder
+603: Benign mammary dysplasia
+604: Ewing's sarcoma of bone
+605: Hypercalciuria
+606: Peripheral vascular disease
+607: Angina pectoris
+608: Anovulation
+609: Bacterial lower respiratory infection
+610: Bacterial upper respiratory infection
+611: Bipolar I disorder, most recent episode depressed with atypical features
+612: Bipolar I disorder, most recent episode depressed with melancholic features
+613: Chronic bipolar I disorder, most recent episode depressed
+614: Combativeness
+615: Comedonal acne
+616: Croup
+617: Degenerative cervical spinal stenosis
+618: Degenerative lumbar spinal stenosis
+619: Degenerative thoracic spinal stenosis
+620: Disorder of skin
+621: Feeling agitated
+622: Hiccoughs
+623: Membranous glomerulonephritis
+624: Menopausal symptom
+625: Musculoskeletal pain
+626: Myofascial pain
+627: Myxedema coma
+628: Neurogenic urinary bladder
+629: Osteogenesis imperfecta
+630: Panic attack
+631: Pleurisy
+632: Post-episiotomy pain
+633: Prinzmetal angina
+634: Psychomotor agitation
+635: Sedation
+636: Smoking cessation assistance
+637: Spinal stenosis in cervical region
+638: Spinal stenosis of lumbar region
+639: Spinal stenosis of lumbosacral region
+640: Spinal stenosis of thoracic region
+641: Spinal stenosis, excluding cervical region
+642: Stenosis of spinal canal at craniovertebral junction
+643: Stenosis of spinal canal due to bone
+644: Stenosis of spinal canal due to connective tissue
+645: Stenosis of spinal canal due to subluxation
+646: Symptomatic sinus bradycardia
+647: Viral respiratory infection
+648: Carotid endarterectomy
+649: Cervical ripening procedure
+650: Chemodissolution of bile duct stone
+651: Glossopharyngeal neuralgia
+652: Heartburn
+653: Hypercholesterolemia
+654: Hyperlipidemia
+655: Hypertriglyceridemia
+656: Hyperuricemia
+657: Injury of head
+658: Intracranial tumor
+659: Liver transplant rejection
+660: Lung transplant rejection
+661: Renal transplant rejection
+662: Spinal cord injury
+663: Symptomatic carotid artery stenosis
+664: Transplantation of bone marrow
+665: Transplanted organ rejection
+666: Diarrhea caused by drug
+667: Granulomatosis with polyangiitis
+668: Percutaneous coronary intervention
+669: Comedone
+670: Nicotine dependence
+671: Opioid dependence
+672: Stable angina
+673: Uses contraception
+674: Acute myeloid leukemia, disease
+675: Aplastic anemia
+676: Atypical mycobacterial infection of lung
+677: Autoimmune hemolytic anemia
+678: Blood coagulation disorder
+679: Community-acquired methicillin-resistant Staphylococcus aureus infection
+680: Essential thrombocythemia
+681: Immune thrombocytopenia
+682: Infection by Entamoeba
+683: Infection by Fasciola
+684: Infection by Trichomonas
+685: Infection caused by Mycobacterium avium-intracellulare group
+686: Kidney disease
+687: Neoplastic disease
+688: Pheochromocytoma
+689: Polycythemia vera (clinical)
+690: Pure red cell aplasia
+691: Soft tissue infection
+692: Spinal stenosis
+693: Thrombocytopenia due to diminished platelet production
+694: Thrombocytopenia due to non-immune destruction
+695: Thrombocytopenic purpura
+696: Thrombotic thrombocytopenic purpura
+697: Thyrotoxicosis
+698: Acute coronary syndrome
+699: Acute febrile mucocutaneous lymph node syndrome
+700: Acute graft-versus-host disease
+701: Allergic reaction to drug
+702: Anaphylaxis
+703: Ankylosing spondylitis
+704: Antiphospholipid syndrome
+705: Behcet's syndrome
+706: Bronchospasm
+707: Bullous systemic lupus erythematosus
+708: Cardiac syndrome X
+709: Carpal tunnel syndrome
+710: Cholestatic jaundice syndrome
+711: Dermal mycosis
+712: Dermatomyositis
+713: Discoid lupus erythematosus
+714: Febrile neutropenia
+715: Giant cell arteritis
+716: Gilles de la Tourette's syndrome
+717: Graft versus host disease
+718: Hot sweats
+719: Kaposi's sarcoma with AIDS (acquired immunodeficiency syndrome)
+720: Localized scleroderma
+721: Lupus erythematosus-associated urticarial vasculitis
+722: Lupus erythematosus
+723: Metabolic syndrome X
+724: Nephrotic syndrome
+725: Neurogenic pain
+726: Open comedone
+727: Osteitis deformans
+728: Osteopenia
+729: Pancytopenia
+730: Pelvic congestion syndrome
+731: Polymyositis
+732: Primary fibromyalgia syndrome
+733: Primary Sjögren's syndrome
+734: Pulmonary eosinophilia
+735: Renal tubulo-interstitial disorder due to systemic lupus erythematosus
+736: Respiratory tract infection
+737: Sarcoidosis
+738: Sjögren's syndrome
+739: Steinert myotonic dystrophy syndrome
+740: Stiff-person syndrome
+741: Systemic lupus erythematosus
+742: Systemic mast cell disease
+743: Systemic sclerosis
+744: Temporal arteritis
+745: Transurethral resection of prostate (TURP) syndrome
+746: Vasculitis
+747: Waldenström macroglobulinemia
+748: Wolfram syndrome
+749: Acanthosis nigricans due to type 2 diabetes mellitus
+750: Adrenal cortical hypofunction
+751: AL amyloidosis
+752: Amyloidosis
+753: Arthropathy due to type 2 diabetes mellitus
+754: Chronic kidney disease due to type 2 diabetes mellitus
+755: Delayed puberty
+756: Diabetes mellitus associated with cystic fibrosis
+757: Diabetes mellitus associated with hormonal etiology
+758: Diabetes mellitus associated with pancreatic disease
+759: Diabetes mellitus associated with receptor abnormality
+760: Diabetes mellitus due to cystic fibrosis
+761: Diabetes mellitus induced by non-steroid drugs
+762: Diabetes mellitus without complication
+763: Diabetes mellitus
+764: Disorder of lipoprotein AND_OR lipid metabolism
+765: Drug-induced diabetes mellitus
+766: Essential tremor
+767: Gestational diabetes mellitus
+768: Hyperaldosteronism
+769: Hypersecretion of ovarian androgens
+770: Hypoadrenalism
+771: Hypothyroidism
+772: Infection of foot due to diabetes mellitus
+773: Metabolic disease
+774: Neoplasm of thyroid gland
+775: Neuropathy due to diabetes mellitus
+776: Obesity
+777: Posttransplant diabetes mellitus
+778: Pre-existing type 2 diabetes mellitus
+779: Retinopathy due to diabetes mellitus
+780: Secondary diabetes mellitus
+781: Secondary endocrine diabetes mellitus
+782: Simple obesity
+783: Steroid-induced diabetes
+784: Thromboembolic disorder
+785: Type 2 diabetes mellitus in nonobese
+786: Type 2 diabetes mellitus in obese
+787: Type 2 diabetes mellitus with peripheral angiopathy
+788: Type 2 diabetes mellitus with ulcer
+789: Type 2 diabetes mellitus without complication
+790: Type 2 diabetes mellitus
+791: Vasopressin deficiency
+792: Absence seizure
+793: Acute intermittent porphyria
+794: Amebic dysentery
+795: Anorexia nervosa
+796: Anxiety disorder
+797: Anxiety
+798: Atopic IgE-mediated allergic disorder
+799: Attention deficit hyperactivity disorder
+800: Atypical depressive disorder
+801: Autism spectrum disorder
+802: Bipolar affective disorder, current episode manic
+803: Bipolar affective disorder, currently depressed, mild
+804: Bipolar affective disorder, currently depressed, moderate
+805: Bipolar disorder
+806: Bipolar I disorder
+807: Bipolar II disorder, most recent episode major depressive with atypical features
+808: Bipolar II disorder, most recent episode major depressive with catatonic features
+809: Bipolar II disorder, most recent episode major depressive with melancholic features
+810: Bipolar II disorder, most recent episode major depressive
+811: Catatonia
+812: Chronic bipolar II disorder, most recent episode major depressive
+813: Chronic depressive personality disorder
+814: Chronic major depressive disorder, single episode
+815: Chronic recurrent major depressive disorder
+816: Chronic schizophrenia
+817: Conduct disorder, childhood-onset type
+818: Constipation
+819: Delirium
+820: Delusional disorder
+821: Dementia associated with Parkinson's Disease
+822: Dementia of the Alzheimer type with behavioral disturbance
+823: Dementia with behavioral disturbance
+824: Dementia
+825: Depressed bipolar I disorder in full remission
+826: Depressed bipolar I disorder in partial remission
+827: Depressed bipolar I disorder in remission
+828: Depressed bipolar I disorder
+829: Depressive disorder
+830: Eating disorder
+831: Generalized anxiety disorder
+832: Hypogonadism
+833: Major depression in partial remission
+834: Major depression, melancholic type
+835: Major depression, single episode
+836: Major depressive disorder, single episode with atypical features
+837: Major depressive disorder, single episode with catatonic features
+838: Major depressive disorder, single episode with melancholic features
+839: Major depressive disorder
+840: Manic bipolar I disorder
+841: Medication-induced movement disorder
+842: Mild depressed bipolar I disorder
+843: Mild major depression, single episode
+844: Moderate depressed bipolar I disorder
+845: Moderate major depression, single episode
+846: Multi-infarct dementia
+847: Nephrotic syndrome associated with another disorder
+848: Nocturnal enuresis
+849: Obsessive-compulsive disorder
+850: Panic disorder
+851: Posttraumatic stress disorder
+852: Premenstrual dysphoric disorder
+853: Pruritic disorder
+854: Psychotic disorder
+855: Recurrent brief depressive disorder
+856: Recurrent depression
+857: Recurrent major depressive disorder with atypical features
+858: Recurrent major depressive disorder with catatonic features
+859: Recurrent major depressive disorder with melancholic features
+860: Recurrent major depressive episodes, mild
+861: Recurrent major depressive episodes, moderate
+862: Recurrent major depressive episodes, severe, with psychosis
+863: Recurrent major depressive episodes
+864: Schizoaffective disorder
+865: Schizophrenia
+866: Sciatica
+867: Seizure disorder
+868: Severe depressed bipolar I disorder with psychotic features, mood-congruent
+869: Severe depressed bipolar I disorder with psychotic features, mood-incongruent
+870: Severe depressed bipolar I disorder with psychotic features
+871: Severe depressed bipolar I disorder without psychotic features
+872: Sickling disorder due to hemoglobin S
+873: Single major depressive episode, severe, with psychosis
+874: Social phobia
+875: Spastic disorder of smooth muscle segment of esophagus
+876: Temporomandibular joint disorder
+877: Ureteric stone
+878: Alveolar hypoventilation
+879: Choriocarcinoma
+880: Hypersomnia with sleep apnea
+881: Insomnia
+882: Mixed sleep apnea
+883: Narcolepsy
+884: Obstructive sleep apnea syndrome
+885: REM sleep behavior disorder
+886: Restless legs
+887: Sleep apnea
+888: Sleep walking disorder
+889: Alzheimer's disease
+890: Autonomic dysreflexia
+891: Bacteremia associated with intravascular line
+892: Bell's palsy
+893: Cerebral edema
+894: Cerebral palsy
+895: Cerebrovascular accident
+896: Chronic diarrhea
+897: Chronic intractable pain
+898: Chronic pain
+899: Cluster headache
+900: Diabetic peripheral neuropathy
+901: Diffuse Lewy body disease
+902: Disorder of nervous system
+903: Epilepsy
+904: Epileptic seizure
+905: Exacerbation of multiple sclerosis
+906: Fatigue
+907: Focal onset epileptic seizure
+908: Focal onset impaired awareness epileptic seizure
+909: Headache
+910: Hypertensive encephalopathy
+911: Ischemic stroke
+912: Lyme disease
+913: Macular retinal edema
+914: Migraine
+915: Multifocal atrial tachycardia
+916: Multiple sclerosis
+917: Myasthenia gravis
+918: Pain
+919: Parkinsonism
+920: Paroxysmal atrial flutter
+921: Paroxysmal tachycardia
+922: Primary dysthymia
+923: Progressive angina
+924: Raynaud's phenomenon
+925: Reversal of neuromuscular blockade
+926: Seizure
+927: Spasm of cerebral arteries
+928: Status epilepticus
+929: Tension-type headache
+930: Thrombosis
+931: Tic disorder
+932: Tremor
+933: Trigeminal neuralgia
+934: Ulnar neuropathy
+935: Venous thrombosis
+936: Wolff-Parkinson-White pattern
+937: Allergic conjunctivitis
+938: Anterior uveitis
+939: Autoimmune hepatitis
+940: Autoimmune thyroiditis
+941: Candida endophthalmitis
+942: Chorioretinitis
+943: Conduction disorder of the heart
+944: Disorder of eye region
+945: Disorder of joint of spine
+946: Epicondylitis
+947: Glaucoma
+948: Hormone replacement therapy
+949: Hypercalcemia
+950: Hyperkalemia
+951: Hypokalemia
+952: Keratitis
+953: Keratoconjunctivitis sicca
+954: Neoplasm of rectum
+955: Poisoning by parasympathomimetic drug
+956: Retinoblastoma
+957: Urethritis
+958: Uveitis
+959: Aberrant premature complexes
+960: Acne agminata
+961: Acute leukemia
+962: Alcohol dependence
+963: Alcohol withdrawal
+964: Alcoholism
+965: Allergic disorder of respiratory system
+966: Angiosarcoma
+967: Ascites
+968: Assisted fertilization
+969: Burn
+970: Candidemia
+971: Congenital adrenal hyperplasia
+972: Congenital dilatation of lobar intrahepatic bile duct
+973: Cradle cap
+974: Degenerative disorder of musculoskeletal system
+975: Disorder of cardiovascular system
+976: Disorder of endocrine system
+977: Disorder of musculoskeletal system
+978: Disorder of respiratory system
+979: Drug-induced gastrointestinal disturbance
+980: Endocrine pancreas tumor finding
+981: Environmental allergy
+982: Excessive salivation
+983: Familial hypercholesterolemia
+984: Familial type 3 hyperlipoproteinemia
+985: Female sexual arousal disorder
+986: Gallstone
+987: Gastrointestinal hemorrhage
+988: Germ cell tumor of ovary
+989: Germ cell tumor
+990: Gynecomastia
+991: Hairy cell leukemia (clinical)
+992: Helicobacter pylori gastrointestinal tract infection
+993: Iatrogenic cervical spinal stenosis
+994: Iatrogenic lumbar spinal stenosis
+995: Iatrogenic thoracic spinal stenosis
+996: Idiopathic cervical spinal stenosis
+997: Idiopathic guttate hypomelanosis
+998: Idiopathic hypereosinophilic syndrome
+999: Idiopathic lumbar spinal stenosis
+1000: Idiopathic pulmonary hemosiderosis
+1001: Idiopathic thoracic spinal stenosis
+1002: Indigestion
+1003: Infection caused by anaerobic bacteria
+1004: Inflammatory disorder of musculoskeletal system
+1005: Instillation of dilating eye drops to eye
+1006: Juvenile idiopathic arthritis
+1007: Laryngopharyngeal reflux
+1008: Leukemia
+1009: Leukoplakia
+1010: Local recurrence of malignant tumor of kidney
+1011: Major depressive disorder, single episode with postpartum onset
+1012: Male pattern alopecia
+1013: Malignant epithelial tumor of ovary
+1014: Malignant lymphoma
+1015: Malignant melanoma
+1016: Malignant mesothelioma of pleura
+1017: Malignant tumor of anus
+1018: Malignant tumor of cervix
+1019: Malignant tumor of fallopian tube
+1020: Malignant tumor of head and neck
+1021: Malignant tumor of kidney parenchyma
+1022: Malignant tumor of kidney
+1023: Malignant tumor of lung
+1024: Malignant tumor of nasopharynx
+1025: Malignant tumor of ovary
+1026: Malignant tumor of stomach
+1027: Malignant tumor of testis
+1028: Malignant tumor of thymus
+1029: Malignant tumor of thyroid gland
+1030: Malignant tumor of vagina
+1031: Maturity onset diabetes of the young, type 2
+1032: Mesothelioma (malignant, clinical disorder)
+1033: Metastatic malignant melanoma
+1034: Mitral and aortic incompetence
+1035: Moderate pain
+1036: Motion sickness
+1037: Myelodysplastic syndrome (clinical)
+1038: Myeloproliferative disorder
+1039: Neoplasm of head and neck
+1040: Nocturia
+1041: Non-small cell lung cancer
+1042: Operation on gastrointestinal tract
+1043: Polyporous comedone
+1044: Posterior uveitis
+1045: Postoperative cardiac complication
+1046: Postoperative depression
+1047: Postoperative hypertension
+1048: Postoperative infection
+1049: Postoperative nausea and vomiting
+1050: Postoperative pain
+1051: Premature ejaculation
+1052: Respiratory syncytial virus infection
+1053: Stenosis of lateral recess of lumbar spine
+1054: Superficial acne vulgaris
+1055: Superficial basal cell carcinoma
+1056: Superficial inflammatory acne vulgaris
+1057: Superficial mixed comedonal and inflammatory acne vulgaris
+1058: Termination of pregnancy
+1059: Toothache
+1060: Toxic effect of cyanide
+1061: Vomiting of pregnancy
